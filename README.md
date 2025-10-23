@@ -27,7 +27,7 @@ python src/standard.py
 ```bash
 python src/MLP.py
 ```
-3. **Predict for new regions or UNSW lab data**
+3. **Predict for new regions (UNSW lab data)**
 Edit `predict.py` input/output paths and run:
 ```bash
 python src/predict.py
